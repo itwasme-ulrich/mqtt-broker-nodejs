@@ -1,0 +1,19 @@
+{
+  "name": "mqtt",
+  "version": "1.0.0",
+  "description": "mqtt_js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mqtt",
+    "js"
+  ],
+  "author": "ulrich",
+  "license": "ISC",
+  "dependencies": {
+    "aedes": "^0.47.0",
+    "mqtt": "^4.3.7"
+  }
+}
